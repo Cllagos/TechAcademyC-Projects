@@ -1,0 +1,7 @@
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\VariablesandDatatypes\VariablesandDatatypes\bin\Debug\VariablesandDatatypes.exe.config
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\VariablesandDatatypes\VariablesandDatatypes\bin\Debug\VariablesandDatatypes.exe
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\VariablesandDatatypes\VariablesandDatatypes\bin\Debug\VariablesandDatatypes.pdb
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\VariablesandDatatypes\VariablesandDatatypes\obj\Debug\VariablesandDatatypes.csproj.AssemblyReference.cache
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\VariablesandDatatypes\VariablesandDatatypes\obj\Debug\VariablesandDatatypes.csproj.CoreCompileInputs.cache
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\VariablesandDatatypes\VariablesandDatatypes\obj\Debug\VariablesandDatatypes.exe
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\VariablesandDatatypes\VariablesandDatatypes\obj\Debug\VariablesandDatatypes.pdb
