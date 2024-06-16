@@ -1,0 +1,7 @@
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\LoopingSwitchStatements\LoopingSwitchStatements\bin\Debug\LoopingSwitchStatements.exe.config
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\LoopingSwitchStatements\LoopingSwitchStatements\bin\Debug\LoopingSwitchStatements.exe
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\LoopingSwitchStatements\LoopingSwitchStatements\bin\Debug\LoopingSwitchStatements.pdb
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\LoopingSwitchStatements\LoopingSwitchStatements\obj\Debug\LoopingSwitchStatements.csproj.AssemblyReference.cache
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\LoopingSwitchStatements\LoopingSwitchStatements\obj\Debug\LoopingSwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\LoopingSwitchStatements\LoopingSwitchStatements\obj\Debug\LoopingSwitchStatements.exe
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\LoopingSwitchStatements\LoopingSwitchStatements\obj\Debug\LoopingSwitchStatements.pdb
