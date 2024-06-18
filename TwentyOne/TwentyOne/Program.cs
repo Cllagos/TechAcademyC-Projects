@@ -16,8 +16,6 @@ namespace TwentyOne
             game.Play();
             Console.ReadLine();
 
-           
-            
             Deck deck = new Deck();
             deck = Shuffle(deck, 3);
             
