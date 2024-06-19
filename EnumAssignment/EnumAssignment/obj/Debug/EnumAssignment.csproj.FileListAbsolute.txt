@@ -1,0 +1,7 @@
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\EnumAssignment\EnumAssignment\bin\Debug\EnumAssignment.exe.config
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\EnumAssignment\EnumAssignment\bin\Debug\EnumAssignment.exe
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\EnumAssignment\EnumAssignment\bin\Debug\EnumAssignment.pdb
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.csproj.AssemblyReference.cache
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.csproj.CoreCompileInputs.cache
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.exe
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.pdb
