@@ -14,5 +14,11 @@ namespace LambdaFunction
 
         public string LastName { get; set; }
 
+
+        public override string ToString()
+        {
+            return $"ID: {ID}, FirstName: {FirstName}";
+        }
+
     }
 }

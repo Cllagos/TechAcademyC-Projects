@@ -11,28 +11,51 @@ namespace LambdaFunction
         static void Main(string[] args)
         {
             List<string> employeeList = new List<string>() { "Joe", "Carlos", "Jim", "Dale", "Brandon", "Joe", "Kyle", "Erik", "Aaron", "Pete" };
-            List<Employee> newEmployees = new List<Employee>();
-            Employee employee = new Employee();
 
-            foreach (string i in employeeList)
+
+
+            //foreach (string name in employeeList)
+            //{
+            //    if (name == "Joe")
+            //    {
+            //        Employee employee = new Employee();
+            //        employee.FirstName = name;
+            //        newEmployees.Add(employee);
+            //    }
+            //}
+
+            //string[] fruits = { "apple", "banana", "mango", "orange",
+            //          "passionfruit", "grape" };
+
+            //var query =
+            //    fruits.Select((fruit, index) =>
+            //                      new { index, str = fruit.Substring(0, index) });
+
+            //List<Employee> lambdaEmployees = employeeList.Where(name => name == "Joe").Select(name => new Employee { FirstName = name }).ToList();
+
+            //// Printing the lambdaEmployees list to verify
+            //foreach (Employee emp in lambdaEmployees)
+            //{
+            //    Console.WriteLine(emp.FirstName);
+            //    Console.ReadLine();
+            //}
+
+            //List<Employee> employeeListID = employeeList.Select(name => new Employee { FirstName = name }).ToList();
+
+            //employeeListID = employeeList.Select((name, index) => new Employee { ID = index }).ToList();
+            List<Employee> employeeListID = employeeList.Select((name, index) => new Employee { ID = index, FirstName = name }).ToList();
+
+            foreach (Employee employee in employeeListID)
             {
-                for (int j = 0; j < employeeList.Count(); j++)
-                {
-                    if (i == "Joe")
-                    {
-                        newEmployees[j].FirstName = i;
-                    }
-
-                }
+                Console.WriteLine(employee);
+                
             }
+            Console.ReadLine();
 
-            List<Employee> lambdaEmployees = employeeList.Where(name => name == "Joe").Select(name => new Employee { FirstName = name }).ToList();
 
-            // Printing the lambdaEmployees list to verify
-            foreach (Employee emp in lambdaEmployees)
-            {
-                Console.WriteLine(emp.FirstName);
-            }
+
+
+
 
 
             //        List<string> employeeList = new List<string>() { "Joe", "Carlos", "Jim", "Dale", "Brandon", "Joe", "Kyle", "Erik", "Aaron", "Pete" };

@@ -1,0 +1,7 @@
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\LambdaFunction\LambdaFunction\bin\Debug\LambdaFunction.exe.config
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\LambdaFunction\LambdaFunction\bin\Debug\LambdaFunction.exe
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\LambdaFunction\LambdaFunction\bin\Debug\LambdaFunction.pdb
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\LambdaFunction\LambdaFunction\obj\Debug\LambdaFunction.csproj.AssemblyReference.cache
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\LambdaFunction\LambdaFunction\obj\Debug\LambdaFunction.csproj.CoreCompileInputs.cache
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\LambdaFunction\LambdaFunction\obj\Debug\LambdaFunction.exe
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\LambdaFunction\LambdaFunction\obj\Debug\LambdaFunction.pdb
