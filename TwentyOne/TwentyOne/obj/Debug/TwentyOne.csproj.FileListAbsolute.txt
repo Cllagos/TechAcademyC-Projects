@@ -5,3 +5,6 @@ C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\TwentyOne
 C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
