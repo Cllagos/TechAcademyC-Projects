@@ -1,0 +1,7 @@
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\CallingMethod\CallingMethod\bin\Debug\CallingMethod.exe.config
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\CallingMethod\CallingMethod\bin\Debug\CallingMethod.exe
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\CallingMethod\CallingMethod\bin\Debug\CallingMethod.pdb
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\CallingMethod\CallingMethod\obj\Debug\CallingMethod.csproj.AssemblyReference.cache
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\CallingMethod\CallingMethod\obj\Debug\CallingMethod.csproj.CoreCompileInputs.cache
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\CallingMethod\CallingMethod\obj\Debug\CallingMethod.exe
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\CallingMethod\CallingMethod\obj\Debug\CallingMethod.pdb

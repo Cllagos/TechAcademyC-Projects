@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ASPNetCoreTour/1.0.0": {
+        "runtime": {
+          "ASPNetCoreTour.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASPNetCoreTour/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

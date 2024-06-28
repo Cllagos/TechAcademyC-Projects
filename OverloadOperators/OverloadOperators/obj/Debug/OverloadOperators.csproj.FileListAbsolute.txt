@@ -1,0 +1,7 @@
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\OverloadOperators\OverloadOperators\bin\Debug\OverloadOperators.exe.config
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\OverloadOperators\OverloadOperators\bin\Debug\OverloadOperators.exe
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\OverloadOperators\OverloadOperators\bin\Debug\OverloadOperators.pdb
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\OverloadOperators\OverloadOperators\obj\Debug\OverloadOperators.csproj.AssemblyReference.cache
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\OverloadOperators\OverloadOperators\obj\Debug\OverloadOperators.csproj.CoreCompileInputs.cache
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\OverloadOperators\OverloadOperators\obj\Debug\OverloadOperators.exe
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\OverloadOperators\OverloadOperators\obj\Debug\OverloadOperators.pdb

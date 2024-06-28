@@ -1,0 +1,7 @@
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\WelcomeTechAcademy\WelcomeTechAcademy\bin\Debug\WelcomeTechAcademy.exe.config
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\WelcomeTechAcademy\WelcomeTechAcademy\bin\Debug\WelcomeTechAcademy.exe
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\WelcomeTechAcademy\WelcomeTechAcademy\bin\Debug\WelcomeTechAcademy.pdb
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\WelcomeTechAcademy\WelcomeTechAcademy\obj\Debug\WelcomeTechAcademy.csproj.AssemblyReference.cache
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\WelcomeTechAcademy\WelcomeTechAcademy\obj\Debug\WelcomeTechAcademy.csproj.CoreCompileInputs.cache
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\WelcomeTechAcademy\WelcomeTechAcademy\obj\Debug\WelcomeTechAcademy.exe
+C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\WelcomeTechAcademy\WelcomeTechAcademy\obj\Debug\WelcomeTechAcademy.pdb
