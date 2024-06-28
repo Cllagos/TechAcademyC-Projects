@@ -1,7 +1,0 @@
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.exe.config
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.pdb
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.csproj.AssemblyReference.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.csproj.CoreCompileInputs.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.pdb

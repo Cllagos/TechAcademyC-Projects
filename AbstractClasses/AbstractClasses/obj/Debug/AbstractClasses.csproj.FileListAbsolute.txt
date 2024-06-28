@@ -1,7 +1,0 @@
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb

@@ -1,7 +1,0 @@
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.exe.config
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.pdb
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.csproj.AssemblyReference.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.csproj.CoreCompileInputs.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.pdb

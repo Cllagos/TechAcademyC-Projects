@@ -1,7 +1,0 @@
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\Chaining Constructors\Chaining Constructors\bin\Debug\Chaining Constructors.exe.config
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\Chaining Constructors\Chaining Constructors\bin\Debug\Chaining Constructors.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\Chaining Constructors\Chaining Constructors\bin\Debug\Chaining Constructors.pdb
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\Chaining Constructors\Chaining Constructors\obj\Debug\Chaining Constructors.csproj.AssemblyReference.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\Chaining Constructors\Chaining Constructors\obj\Debug\Chaining Constructors.csproj.CoreCompileInputs.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\Chaining Constructors\Chaining Constructors\obj\Debug\Chaining Constructors.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\Chaining Constructors\Chaining Constructors\obj\Debug\Chaining Constructors.pdb

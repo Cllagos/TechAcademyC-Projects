@@ -1,7 +1,0 @@
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.AssemblyReference.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.pdb

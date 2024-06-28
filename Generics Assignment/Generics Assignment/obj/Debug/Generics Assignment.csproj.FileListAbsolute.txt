@@ -1,7 +1,0 @@
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\Generics Assignment\Generics Assignment\bin\Debug\Generics Assignment.exe.config
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\Generics Assignment\Generics Assignment\bin\Debug\Generics Assignment.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\Generics Assignment\Generics Assignment\bin\Debug\Generics Assignment.pdb
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\Generics Assignment\Generics Assignment\obj\Debug\Generics Assignment.csproj.AssemblyReference.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\Generics Assignment\Generics Assignment\obj\Debug\Generics Assignment.csproj.CoreCompileInputs.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\Generics Assignment\Generics Assignment\obj\Debug\Generics Assignment.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\Generics Assignment\Generics Assignment\obj\Debug\Generics Assignment.pdb

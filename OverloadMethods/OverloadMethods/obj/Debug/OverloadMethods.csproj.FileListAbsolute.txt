@@ -1,7 +1,0 @@
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\OverloadMethods\OverloadMethods\bin\Debug\OverloadMethods.exe.config
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\OverloadMethods\OverloadMethods\bin\Debug\OverloadMethods.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\OverloadMethods\OverloadMethods\bin\Debug\OverloadMethods.pdb
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\OverloadMethods\OverloadMethods\obj\Debug\OverloadMethods.csproj.AssemblyReference.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\OverloadMethods\OverloadMethods\obj\Debug\OverloadMethods.csproj.CoreCompileInputs.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\OverloadMethods\OverloadMethods\obj\Debug\OverloadMethods.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\OverloadMethods\OverloadMethods\obj\Debug\OverloadMethods.pdb

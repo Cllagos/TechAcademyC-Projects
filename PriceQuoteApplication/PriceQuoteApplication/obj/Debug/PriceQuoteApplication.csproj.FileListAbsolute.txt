@@ -1,7 +1,0 @@
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\PriceQuoteApplication\PriceQuoteApplication\bin\Debug\PriceQuoteApplication.exe.config
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\PriceQuoteApplication\PriceQuoteApplication\bin\Debug\PriceQuoteApplication.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\PriceQuoteApplication\PriceQuoteApplication\bin\Debug\PriceQuoteApplication.pdb
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\PriceQuoteApplication\PriceQuoteApplication\obj\Debug\PriceQuoteApplication.csproj.AssemblyReference.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\PriceQuoteApplication\PriceQuoteApplication\obj\Debug\PriceQuoteApplication.csproj.CoreCompileInputs.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\PriceQuoteApplication\PriceQuoteApplication\obj\Debug\PriceQuoteApplication.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\PriceQuoteApplication\PriceQuoteApplication\obj\Debug\PriceQuoteApplication.pdb

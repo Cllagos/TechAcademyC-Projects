@@ -1,1 +1,0 @@
-# TechAcademyC-Projects

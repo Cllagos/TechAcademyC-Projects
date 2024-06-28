@@ -1,6 +1,0 @@
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\AnonymousIncomeApp\AnonymousIncomeApp\bin\Debug\AnonymousIncomeApp.exe.config
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\AnonymousIncomeApp\AnonymousIncomeApp\bin\Debug\AnonymousIncomeApp.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\AnonymousIncomeApp\AnonymousIncomeApp\bin\Debug\AnonymousIncomeApp.pdb
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\AnonymousIncomeApp\AnonymousIncomeApp\obj\Debug\AnonymousIncomeApp.csproj.CoreCompileInputs.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\AnonymousIncomeApp\AnonymousIncomeApp\obj\Debug\AnonymousIncomeApp.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\AnonymousIncomeApp\AnonymousIncomeApp\obj\Debug\AnonymousIncomeApp.pdb

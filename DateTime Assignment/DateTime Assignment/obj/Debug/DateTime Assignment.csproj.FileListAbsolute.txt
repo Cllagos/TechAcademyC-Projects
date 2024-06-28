@@ -1,7 +1,0 @@
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\DateTime Assignment\DateTime Assignment\bin\Debug\DateTime Assignment.exe.config
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\DateTime Assignment\DateTime Assignment\bin\Debug\DateTime Assignment.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\DateTime Assignment\DateTime Assignment\bin\Debug\DateTime Assignment.pdb
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\DateTime Assignment\DateTime Assignment\obj\Debug\DateTime Assignment.csproj.AssemblyReference.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\DateTime Assignment\DateTime Assignment\obj\Debug\DateTime Assignment.csproj.CoreCompileInputs.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\DateTime Assignment\DateTime Assignment\obj\Debug\DateTime Assignment.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\DateTime Assignment\DateTime Assignment\obj\Debug\DateTime Assignment.pdb

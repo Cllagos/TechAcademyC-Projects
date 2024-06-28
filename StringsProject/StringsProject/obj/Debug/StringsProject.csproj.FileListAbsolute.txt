@@ -1,7 +1,0 @@
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\StringsProject\StringsProject\bin\Debug\StringsProject.exe.config
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\StringsProject\StringsProject\bin\Debug\StringsProject.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\StringsProject\StringsProject\bin\Debug\StringsProject.pdb
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\StringsProject\StringsProject\obj\Debug\StringsProject.csproj.AssemblyReference.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\StringsProject\StringsProject\obj\Debug\StringsProject.csproj.CoreCompileInputs.cache
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\StringsProject\StringsProject\obj\Debug\StringsProject.exe
-C:\Users\clagos\OneDrive - IPG Photonics\Attachments\TechAcademyC#Repo\StringsProject\StringsProject\obj\Debug\StringsProject.pdb
